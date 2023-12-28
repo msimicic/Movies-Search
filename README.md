@@ -1,3 +1,29 @@
+Components relationship:
+
+						       _____________________
+						      |			    |
+						      |        App	    |
+						      |_____________________|
+								 |
+								 |
+								 v
+		  ______________________________________________________________________________________________
+	         |						 |						|
+	         |						 |						|
+	         v						 v						v
+        ____________________			    ___________________________		             _______________________
+       |		    |		           |		      	       |		    |			    |
+       |     SearchBar	    |		           |    SearchResultsList      |		    |      MovieScreen	    |
+       |____________________|			   |___________________________|		    |_______________________|
+								 |
+								 |
+								 v
+						     _________________________
+						    |			      |
+						    |      SearchResult	      |
+						    |_________________________|
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
