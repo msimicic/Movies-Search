@@ -1,3 +1,5 @@
+A list of 50 fan favorite movies which we can search through search bar and display its data on the screen.
+
 Components relationship:
 
 						       _____________________
